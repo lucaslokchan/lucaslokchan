@@ -34,6 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslokchan&layout=compact)](https://github.com/lucaslokchan)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslokchan&show_icons=true)](https://github.com/lucaslokchan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslokchan&repo=proto-sbts)](https://github.com/lucaslokchan/proto-sbts)
+[![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](#)
 --->
 <!---
 lucaslokchan/lucaslokchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
