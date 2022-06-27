@@ -29,6 +29,16 @@
   <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h4> 💬 And more ... </h4>
+<p>
+  <a href="https://www.goodreads.com/user/show/125559283-kai-lok"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@lucas.lokchan"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
 <!---
 <h4> Stats ...</h4>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslokchan&layout=compact)](https://github.com/lucaslokchan)
