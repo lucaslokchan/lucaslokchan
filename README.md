@@ -31,7 +31,7 @@
 
 <h4> 💬 And more ... </h4>
 <p>
-  <a href="https://www.goodreads.com/user/show/125559283-kai-lok"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.goodreads.com/lucaslokchan"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@lucas.lokchan"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
