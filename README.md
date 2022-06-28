@@ -18,16 +18,31 @@
   <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>  
 
-<h4> 👀 Skills i learned ... </h4>
+<h4> 👀 Skills I learned ... </h4>
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<h4> 🚗 Roadmap ... <h4>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal%20engine&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+  
 
 <h4> 💬 And more ... </h4>
 <p>
