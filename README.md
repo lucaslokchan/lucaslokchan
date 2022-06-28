@@ -18,7 +18,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>  
 
@@ -37,7 +36,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal%20engine&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,12 +45,15 @@
 <h4> 💬 And more ... </h4>
 <p>
   <a href="https://www.goodreads.com/lucaslokchan"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@lucas.lokchan"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@lucaslokchan"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 
-
+<!---
+<a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+--->
 
 <!---
 <h4> Stats ...</h4>
