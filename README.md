@@ -1,6 +1,6 @@
 <h1> Hi, I’m Lucas 👋 </h1>
 
-<h4> 📫 How to reach me ... </h4>
+<h3> 📫 How to reach me ... </h3>
 <p>
   <a href="https://www.linkedin.com/in/lucaslokchan"><img src="https://img.shields.io/badge/-lucaslokchan-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lucas.lokchan@gmail.com"><img src="https://img.shields.io/badge/-lucas.lokchan@gmail.com-EA4335?logo=Gmail&style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 
 <h4> 💞️ I’m currently working on ... <h4>
 <p>
-  <a href="https://github.com/lucaslokchan/proto-sbts"><img src="https://img.shields.io/badge/-Soulbound%20Token-black?logo=ethereum&style=for-the-badge&logoColor=white" width="400"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lucaslokchan/proto-sbts"><img src="https://img.shields.io/badge/-Soulbound%20Token-FFFF00?logo=ethereum&style=for-the-badge&logoColor=black" width="450"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
   
 <h4> 🌱 I’m currently learning ... </h4>
@@ -30,16 +30,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4> 🚗 Roadmap ... <h4>
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal%20engine&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
   
 
 <h4> 💬 And more ... </h4>
@@ -51,6 +42,17 @@
 
 
 <!---
+
+<h4> 🚗 Roadmap ... <h4>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal%20engine&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 --->
