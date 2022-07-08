@@ -21,7 +21,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>  
 
-<h4> 👀 Skills I learned ... </h4>
+<h4> 👀 Skills I have preliminary knowledge on ... </h4>
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
