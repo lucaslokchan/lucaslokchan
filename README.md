@@ -8,7 +8,7 @@
 
 <h4> 💞️ I’m currently working on ... <h4>
 <p>
-  <a href="https://github.com/lucaslokchan/proto-sbts"><img src="https://img.shields.io/badge/-Soulbound%20Token-FFFF00?logo=ethereum&style=for-the-badge&logoColor=black" width="450"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://soulbound-token.netlify.app/"><img src="https://img.shields.io/badge/-Soulbound%20Token-FFFF00?logo=ethereum&style=for-the-badge&logoColor=black" width="450"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
   
 <h4> 🌱 I’m currently learning ... </h4>
