@@ -2,8 +2,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/lucaslokchan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:lucas.lokchan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://medium.com/@lucaslokchan"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
 Previously I was the founding engineer at [Alfred Travel](https://www.alfredtravel.io), an iOS and Android trip planner ([App Store](https://apps.apple.com/au/app/alfred-travel/id6745240301), [Google Play](https://play.google.com/store/apps/details?id=io.alfredtravel.app)). I wrote the React Native app and worked on the FastAPI and LangGraph service, the Spring Boot API, the NestJS workers, and the Kubernetes deploys on AWS.
