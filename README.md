@@ -1,70 +1,60 @@
-<h1> Hi, I’m Lucas 👋 </h1>
+# Lucas Chan
 
-<h3> 📫 How to reach me ... </h3>
 <p>
-  <a href="https://www.linkedin.com/in/lucaslokchan"><img src="https://img.shields.io/badge/-lucaslokchan-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lucas.lokchan@gmail.com"><img src="https://img.shields.io/badge/-lucas.lokchan@gmail.com-EA4335?logo=Gmail&style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucaslokchan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucas.lokchan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://medium.com/@lucaslokchan"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
-<h4> 💞️ I’m currently working on ... <h4>
-<p>
-  <a href="https://soulbound-token.netlify.app/"><img src="https://img.shields.io/badge/-Soulbound%20Token-FFFF00?logo=ethereum&style=for-the-badge&logoColor=black" width="450"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-  
-<h4> 🌱 I’m currently learning ... </h4>
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>  
+Previously I was the founding engineer at [Alfred Travel](https://www.alfredtravel.io), an iOS and Android trip planner ([App Store](https://apps.apple.com/au/app/alfred-travel/id6745240301), [Google Play](https://play.google.com/store/apps/details?id=io.alfredtravel.app)). I wrote the React Native app and worked on the FastAPI and LangGraph service, the Spring Boot API, the NestJS workers, and the Kubernetes deploys on AWS.
 
-<h4> 👀 Skills I have preliminary knowledge on ... </h4>
+## Stack
+
+### Mobile
+
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps">
 </p>
 
-
-  
-
-<h4> 💬 And more ... </h4>
-<p>
-  <a href="https://www.goodreads.com/lucaslokchan"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@lucaslokchan"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-<!---
-
-<h4> 🚗 Roadmap ... <h4>
+### AI
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal%20engine&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/LangGraph-1C3A3A?style=for-the-badge" alt="LangGraph">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
-<a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
---->
 
-<!---
-<h4> Stats ...</h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslokchan&layout=compact)](https://github.com/lucaslokchan)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslokchan&show_icons=true)](https://github.com/lucaslokchan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslokchan&repo=proto-sbts)](https://github.com/lucaslokchan/proto-sbts)
-[![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](#)
---->
-<!---
-lucaslokchan/lucaslokchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Services
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</p>
+
+### Infra
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
+</p>
+
+I have also run a GitOps cluster with nginx, cert-manager, Sealed Secrets, and Longhorn.
+
+### Earlier
+
+<p>
+  <a href="https://soulbound-token.netlify.app/"><img src="https://img.shields.io/badge/Soulbound_Token-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Soulbound Token"></a>
+</p>
